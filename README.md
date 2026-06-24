@@ -60,3 +60,6 @@ Pošto su VLAN-ovi međusobno izolovani i imaju IP adrese iz različitih podmre�
 ---
 
 ### 9. Koja je osnovna komanda za CISCO svič kojom vidimo konfiguraciju VLAN-ova?
+Switch# show vlan
+
+---
